@@ -2,10 +2,13 @@ import React from 'react'
 import { Link } from 'gatsby'
 import moment from 'moment'
 import Disqus from '../Disqus/Disqus'
+import 'dayjs/locale/pl'
+import * as dayjs from 'dayjs'
 import './style.scss'
 
 class PostTemplateDetails extends React.Component {
   render() {
+    
     const { subtitle, author } = this.props.data.site.siteMetadata
     const post = this.props.data.markdownRemark
     const tags = post.fields.tagSlugs
@@ -55,7 +58,7 @@ class PostTemplateDetails extends React.Component {
             />
             <div className="post-single__date">
               <em>
-                Published {moment(post.frontmatter.date).format('D MMM YYYY')}
+                Opublikowano {moment(post.frontmatter.date).format('D MMM YYYY')}
               </em>
             </div>
           </div>
