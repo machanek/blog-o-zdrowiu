@@ -4,10 +4,23 @@ layout: page
 path: "/o-mnie"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Dzień dobry,
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
+Nazywam się Radek Kubik. Jestem specjalistą neurologopedii i twórcą tej strony. Mieszkam i pracuję w Krakowie, zajmuję się korekcją różnych zaburzeń mowy u dzieci (od 3 lat) i dorosłych, a także konsultuje się z rodzicami dzieci na temat problemu opóźnionego rozwoju mowy.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+Od 2014 r. Doradzam w sieci na wielu stronach medycznych ja jestem również moderatorem forum „Konsultacje logopedy”. W ciągu 10 lat praktyki nabyłem dużo doświadczenia o tym, co często przeszkadza rodzicom w rozwoju mowy dzieci i jakie pytania pojawiają się związku z tym. Format bloga nie zawsze pozwala w pełni zaspokoić pełną potrzebę informacyjną. Jednak rozumiem, że nie każdy ma możliwość osobistej konsultacji ze specjalistą. Na tej stronie zamierzam omówić bardziej szczegółowo i bardziej dostępne tematy terapii mowy, skupiając się na praktycznych materiałach. Jednak nie tylko, gdyż będę pisał o wielu aspektach zdrowia. Mam nadzieję, że wpisy będzie interesujące dla czytelników, ale także dla kolegów po fachu. Drodzy Koledzy! Oferuję współpracę. 
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Tematy, które planuję omówić:
+
+* Rozwój mowy we wczesnym wieku, korekta opóźnionego rozwoju mowy.
+* Diagnostyka logopedyczna
+* Korekta różnych zaburzeń mowy u przedszkolaków, przygotowanie do szkoły, zapobieganie zaburzeniom pisania.
+* Korekta zaburzeń mowy u studentów, zaburzenia czytania i pisania.
+* Korekta zaburzeń mowy u dorosłych i młodzieży, technika mowy.
+* Kształcenie na odległość, samouczki wideo i konsultacje wideo z logopedą.
+
+Drodzy gościu mojej strony! Mam nadzieję, że spodoba ci się twój czas ze mną tutaj! Spróbuję Cię zainteresować!
+
+
+ 
+Mój adres to redek.kubik@onet.pl
