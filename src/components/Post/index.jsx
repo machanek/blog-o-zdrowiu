@@ -2,8 +2,12 @@ import React from 'react'
 import { Link } from 'gatsby'
 import moment from 'moment'
 import './style.scss'
-
+import 'dayjs/locale/pl'
+import * as dayjs from 'dayjs'
 class Post extends React.Component {
+  showDate(value, format) {
+    return dayjs(value).locale('pl').format(format)
+  }
   render() {
     const {
       title,
@@ -18,9 +22,9 @@ class Post extends React.Component {
         <div className="post__meta">
           <time
             className="post__meta-time"
-            dateTime={moment(date).locale('pl').format('MMMM D, YYYY')}
+            dateTime={this.showDate(date, 'MMMM D, YYYY')}
           >
-            {moment(date).locale('pl').format('MMMM YYYY')}
+            {this.showDate(date, 'MMMM YYYY')}
           </time>
           <span className="post__meta-divider" />
           <span className="post__meta-category" key={categorySlug}>
