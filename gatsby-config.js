@@ -1,34 +1,34 @@
 const lost = require('lost')
 const pxtorem = require('postcss-pxtorem')
 
-const url = 'https://lumen.netlify.com'
+const url = 'https://wpml.pl/'
 
 module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Blog o Zdrowiu Radka Kubika',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    copyright: '© All rights reserved.',
+      'Nazywam się Radek jestem neurologopędą, a to jest mój blog w sieci.',
+    copyright: '© 2019 Wszelkie prawa zasstrzeżone.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Artykuły',
         path: '/',
       },
       {
-        label: 'About me',
-        path: '/about/',
+        label: 'O mnie',
+        path: '/o-mnie/',
       },
       {
-        label: 'Contact me',
-        path: '/contact/',
+        label: 'Kontakt',
+        path: '/kontakt/',
       },
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
+      name: 'Radek Kubik',
+      email: 'radek.kubik@onet.pl',
       telegram: '#',
       twitter: '#',
       github: '#',
