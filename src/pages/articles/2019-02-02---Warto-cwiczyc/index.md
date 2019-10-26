@@ -1,5 +1,6 @@
+---
 title: Warto ćwiczyć
-date: "2019-02-02T18:10:37.222Z"
+date: "2019-02-02T18:10:37.2Z"
 layout: post
 draft: false
 path: "/artykul/warto-cwiczyc/"
@@ -8,7 +9,7 @@ tags:
   - "aktywność fizyczna"
   - "zdrowy ruch"
   - "ruch wspiera serce"
-description: "Dolegliwości bólowe i przykre skurcze dokuczają wielu kobietom podczas miesiączki. Mogą one skutecznie uprzykrzyć życie, niekiedy do tego stopnia, że trzeba wziąć wolne w pracy. Nie pozwól, żeby miesiączkowe dolegliwości uprzykrzały Ci życie."
+description: "Systematyczne ćwiczenia to szansa na zachowanie zdrowia i dobrej formy do późnej starości. Regularna aktywność fizyczna każdemu z nas przyniesie wiele korzyści. Dlaczego warto się ruszać? Bo nasz organizm może się dzięki temu uporać z wieloma problemami."
 ---
 
 Systematyczne ćwiczenia to szansa na zachowanie zdrowia i dobrej formy do późnej starości. Regularna aktywność fizyczna każdemu z nas przyniesie wiele korzyści. Dlaczego warto się ruszać? Bo nasz organizm może się dzięki temu uporać z wieloma problemami. Lepsza kondycja, wspaniałe samopoczucie – oto korzyści, na które może liczyć każdy z nas
